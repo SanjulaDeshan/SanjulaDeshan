@@ -20,7 +20,7 @@ I'm Sanjula Deshan a Full Stack Web Developer and undergraduate student at Unive
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with some project ideas.
 - 📫 How to reach me: sanjuladeshan802@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Fun fact: Besides my gaming pursuits, I frequently engage in physical fitness at the home 😁.
 
 ### Languages and Tools
 
