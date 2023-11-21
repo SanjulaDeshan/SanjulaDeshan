@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&pause=1000&width=450&lines=Hello+there%2C+I'm+Sanjula+Deshan+%F0%9F%91%8B;from+Sri+Lanka+%F0%9F%98%8A;Seeking+to+develop+captivating+open-source+projects+%F0%9F%91%80)](https://git.io/typing-svg)
 
-I'm Sanjula Deshan a Full Stack Web Developer and undergraduate student at University Of Moratuwa. I Spend most of my time coding outstanding projects or learning new things.
+I'm Sanjula Deshan a Full Stack Web Developer and an undergraduate student at the University Of Moratuwa. I Spend most of my time coding outstanding projects or learning new things.
 
 ### :mailbox: Reach me out!
 
@@ -16,7 +16,7 @@ I'm Sanjula Deshan a Full Stack Web Developer and undergraduate student at Unive
 
 ### What I currently Do
 
-- 🔭 I’m currently studing at @University Of Moratuwa
+- 🔭 I’m currently studying at @University Of Moratuwa
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with some project ideas.
 - 📫 How to reach me: sanjuladeshan802@gmail.com.
@@ -45,7 +45,9 @@ I have a genuine passion for sharing knowledge, collaborating on projects, and s
 
 #### Languages Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjuladeshan&show_icons=true&locale=en&layout=compact" alt="sanjuladeshan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanjuladeshan&show_icons=true&theme=radical" alt="sanjuladeshan" /></p>
 
+<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</p>
 
+https://github-readme-stats.vercel.app/api/top-langs?username=sanjuladeshan&show_icons=true&locale=en&layout=compact" alt="sanjuladeshan
 </details>
