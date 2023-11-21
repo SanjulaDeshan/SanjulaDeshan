@@ -45,9 +45,8 @@ I have a genuine passion for sharing knowledge, collaborating on projects, and s
 
 #### Languages Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanjuladeshan&show_icons=true&theme=radical" alt="sanjuladeshan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjuladeshan&show_icons=true&locale=en&layout=compact&theme=dark" alt="sanjuladeshan" /></p>
 
-<p>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</p>
 
-https://github-readme-stats.vercel.app/api/top-langs?username=sanjuladeshan&show_icons=true&locale=en&layout=compact" alt="sanjuladeshan
+
 </details>
